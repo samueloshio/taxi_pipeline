@@ -25,7 +25,7 @@ Contibute to this open source project - https://github.com/mage-ai/mage-ai
 TLC Trip Record Data
 Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
 
-Click -> <html href="https://github.com/samueloshio/uber_etl_pipeline/blob/main/data/uber_data.csv">here</html>for the dataset used in the project ->
+Click <a href="https://github.com/samueloshio/uber_etl_pipeline/blob/main/data/uber_data.csv">here</a> for the dataset used in the project
 
 More info about dataset can be found here:
 1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
